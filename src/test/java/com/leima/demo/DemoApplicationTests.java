@@ -6,6 +6,7 @@ import net.bytebuddy.implementation.bind.annotation.IgnoreForBinding;
 import org.junit.Ignore;
 
 import org.junit.jupiter.api.BeforeEach;
+import org.junit.jupiter.api.Disabled;
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 import org.springframework.http.*;
@@ -120,6 +121,7 @@ class DemoApplicationTests {
     }
 */
     @Ignore
+    @Disabled
     @Test
     public void testWebClient(){
 
