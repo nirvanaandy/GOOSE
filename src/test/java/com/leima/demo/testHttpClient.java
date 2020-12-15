@@ -26,7 +26,7 @@ import java.io.UnsupportedEncodingException;
 @SpringBootTest
 public class testHttpClient {
 
-
+#This is used for a code review
     public static CloseableHttpClient httpClient;
     public static CloseableHttpResponse response;
 
