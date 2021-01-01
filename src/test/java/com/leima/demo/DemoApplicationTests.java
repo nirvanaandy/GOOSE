@@ -34,6 +34,8 @@ class DemoApplicationTests {
     @BeforeEach
     public void setup(){
         restTemplate = new RestTemplate();
+        System.out.println("help1");
+        System.out.println("help2");
     }
 
 /*
