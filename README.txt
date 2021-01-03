@@ -7,3 +7,4 @@ add for dev/feature1.
 add for dev/feature1-1.
 add for dev/feature1-1.
 add for feature1-1 stash.
+add for reset f1-1.
